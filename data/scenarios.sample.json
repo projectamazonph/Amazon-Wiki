@@ -1,0 +1,67 @@
+[
+  {
+    "scenario_id": "scenario-broad-waste",
+    "topic_tags": [
+      "negative-keywords",
+      "search-term-mining"
+    ],
+    "campaign_type": "Sponsored Products Broad",
+    "starting_state": {
+      "budget": 100,
+      "keyword": "running shoes",
+      "spend": 75,
+      "orders": 3,
+      "acos": 45
+    },
+    "problem": "Irrelevant searches are spending budget.",
+    "correct_actions": [
+      "Download Search Term Report",
+      "Add irrelevant terms as negatives",
+      "Harvest converting terms",
+      "Review bids after enough data"
+    ],
+    "common_mistakes": [
+      "Pausing the whole campaign too early",
+      "Increasing bids despite weak terms",
+      "Negating proven terms"
+    ],
+    "scoring_rubric": {
+      "diagnosis": 30,
+      "negatives": 35,
+      "harvesting": 20,
+      "documentation": 15
+    }
+  },
+  {
+    "scenario_id": "scenario-budget-starvation",
+    "topic_tags": [
+      "budget",
+      "pacing"
+    ],
+    "campaign_type": "Sponsored Products Exact",
+    "starting_state": {
+      "budget": 50,
+      "spend_time": "budget exhausted by 10 AM",
+      "acos": 18,
+      "target_acos": 25
+    },
+    "problem": "A profitable campaign cannot stay live all day.",
+    "correct_actions": [
+      "Confirm inventory and margin",
+      "Increase budget or reallocate from weak campaigns",
+      "Monitor placement CPC",
+      "Log the budget change"
+    ],
+    "common_mistakes": [
+      "Ignoring inventory",
+      "Increasing bids instead of budget",
+      "Moving budget from another profitable campaign without checking"
+    ],
+    "scoring_rubric": {
+      "profit_check": 30,
+      "budget_action": 30,
+      "risk_check": 25,
+      "documentation": 15
+    }
+  }
+]

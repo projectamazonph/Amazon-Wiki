@@ -1,0 +1,66 @@
+[
+  {
+    "id": "quiz-4-1-1",
+    "topic_tag": [
+      "match-types"
+    ],
+    "difficulty": "L1",
+    "question": "Which match type usually gives the most impressions?",
+    "options": [
+      "Exact Match",
+      "Phrase Match",
+      "Broad Match",
+      "Negative Exact"
+    ],
+    "correct_answer": "Broad Match",
+    "explanation": "Broad match can trigger for the widest range of related search terms."
+  },
+  {
+    "id": "quiz-10-1-1",
+    "topic_tag": [
+      "metrics"
+    ],
+    "difficulty": "L1",
+    "question": "What does ACOS measure?",
+    "options": [
+      "Ad spend divided by ad sales",
+      "Total sales divided by clicks",
+      "Clicks divided by impressions",
+      "Orders divided by clicks"
+    ],
+    "correct_answer": "Ad spend divided by ad sales",
+    "explanation": "ACOS tells you ad efficiency against ad-attributed revenue."
+  },
+  {
+    "id": "quiz-5-3-1",
+    "topic_tag": [
+      "harvesting"
+    ],
+    "difficulty": "L2",
+    "question": "After moving a winning search term from Broad to Exact, what should you usually do in the source campaign?",
+    "options": [
+      "Increase broad bid",
+      "Add it as Negative Exact",
+      "Pause the whole campaign",
+      "Delete the search term report"
+    ],
+    "correct_answer": "Add it as Negative Exact",
+    "explanation": "This helps prevent duplicate spend and keeps the source campaign focused on discovery."
+  },
+  {
+    "id": "quiz-7-2-1",
+    "topic_tag": [
+      "budget-pacing"
+    ],
+    "difficulty": "L2",
+    "question": "A campaign runs out of budget by 10 AM. What is the safest first diagnostic step?",
+    "options": [
+      "Double budget immediately",
+      "Check ACOS, terms, inventory, and bids",
+      "Pause all keywords",
+      "Switch to DSP"
+    ],
+    "correct_answer": "Check ACOS, terms, inventory, and bids",
+    "explanation": "Running out of budget is only good if the spend is efficient and supported by inventory."
+  }
+]

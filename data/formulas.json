@@ -1,0 +1,32 @@
+[
+  {
+    "id": "acos",
+    "name": "ACOS",
+    "formula": "ad_spend / ad_sales",
+    "plain_english": "How much ad spend was needed to create ad-attributed revenue."
+  },
+  {
+    "id": "roas",
+    "name": "ROAS",
+    "formula": "ad_sales / ad_spend",
+    "plain_english": "How many dollars of ad revenue you earned per dollar spent."
+  },
+  {
+    "id": "tacos",
+    "name": "TACOS",
+    "formula": "ad_spend / total_sales",
+    "plain_english": "How much total business revenue is supported by advertising spend."
+  },
+  {
+    "id": "break_even_acos",
+    "name": "Break-even ACOS",
+    "formula": "gross_profit / price",
+    "plain_english": "Highest ACOS before ads likely become unprofitable before strategic exceptions."
+  },
+  {
+    "id": "target_bid",
+    "name": "Target Bid",
+    "formula": "price * conversion_rate * target_acos",
+    "plain_english": "A simple safe bid estimate based on price, conversion rate, and target efficiency."
+  }
+]

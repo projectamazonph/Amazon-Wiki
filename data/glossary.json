@@ -1,0 +1,185 @@
+[
+  {
+    "term": "ACOS",
+    "short_def": "Advertising Cost of Sales. Ad spend divided by ad-attributed sales.",
+    "long_def": "Advertising Cost of Sales. Ad spend divided by ad-attributed sales.",
+    "related_terms": [
+      "ROAS",
+      "TACOS"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Ad Group",
+    "short_def": "A focused group inside a campaign containing ads and targets.",
+    "long_def": "A focused group inside a campaign containing ads and targets.",
+    "related_terms": [
+      "Campaign",
+      "Keyword"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "ASIN",
+    "short_def": "Amazon Standard Identification Number. A unique product identifier.",
+    "long_def": "Amazon Standard Identification Number. A unique product identifier.",
+    "related_terms": [
+      "Product Targeting"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Attribution Window",
+    "short_def": "The time Amazon uses to credit sales after an ad click or view.",
+    "long_def": "The time Amazon uses to credit sales after an ad click or view.",
+    "related_terms": [
+      "ROAS",
+      "Reporting"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Auto Campaign",
+    "short_def": "A Sponsored Products campaign where Amazon chooses targets from listing data.",
+    "long_def": "A Sponsored Products campaign where Amazon chooses targets from listing data.",
+    "related_terms": [
+      "Close Match",
+      "Loose Match"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Brand Registry",
+    "short_def": "Amazon program for brand owners that unlocks advanced brand and ad features.",
+    "long_def": "Amazon program for brand owners that unlocks advanced brand and ad features.",
+    "related_terms": [
+      "Sponsored Brands",
+      "A+ Content"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Broad Match",
+    "short_def": "Keyword match type that reaches wide variations of the keyword.",
+    "long_def": "Keyword match type that reaches wide variations of the keyword.",
+    "related_terms": [
+      "Phrase Match",
+      "Exact Match"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Buy Box",
+    "short_def": "The purchase box on a listing. Sponsored Products usually require Buy Box eligibility.",
+    "long_def": "The purchase box on a listing. Sponsored Products usually require Buy Box eligibility.",
+    "related_terms": [
+      "Eligibility"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "CPC",
+    "short_def": "Cost per click. Ad spend divided by clicks.",
+    "long_def": "Cost per click. Ad spend divided by clicks.",
+    "related_terms": [
+      "Bid",
+      "CTR"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "CTR",
+    "short_def": "Click-through rate. Clicks divided by impressions.",
+    "long_def": "Click-through rate. Clicks divided by impressions.",
+    "related_terms": [
+      "Impressions",
+      "Clicks"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "CVR",
+    "short_def": "Conversion rate. Orders divided by clicks.",
+    "long_def": "Conversion rate. Orders divided by clicks.",
+    "related_terms": [
+      "Orders",
+      "Listing Optimization"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "DSP",
+    "short_def": "Demand Side Platform. Amazon's programmatic platform for display, video, audio, and TV ads.",
+    "long_def": "Demand Side Platform. Amazon's programmatic platform for display, video, audio, and TV ads.",
+    "related_terms": [
+      "AMC",
+      "Sponsored Display"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Exact Match",
+    "short_def": "Keyword match type focused on exact or close variations.",
+    "long_def": "Keyword match type focused on exact or close variations.",
+    "related_terms": [
+      "Broad Match",
+      "Phrase Match"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Negative Keyword",
+    "short_def": "A term that prevents ads from showing for unwanted searches.",
+    "long_def": "A term that prevents ads from showing for unwanted searches.",
+    "related_terms": [
+      "Negative Exact",
+      "Negative Phrase"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "Portfolio",
+    "short_def": "A campaign grouping tool that can help reporting and budget control.",
+    "long_def": "A campaign grouping tool that can help reporting and budget control.",
+    "related_terms": [
+      "Budget"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "ROAS",
+    "short_def": "Return on ad spend. Ad revenue divided by ad spend.",
+    "long_def": "Return on ad spend. Ad revenue divided by ad spend.",
+    "related_terms": [
+      "ACOS"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  },
+  {
+    "term": "TACOS",
+    "short_def": "Total advertising cost of sales. Ad spend divided by total sales.",
+    "long_def": "Total advertising cost of sales. Ad spend divided by total sales.",
+    "related_terms": [
+      "ACOS",
+      "Organic Sales"
+    ],
+    "first_appears_in_section": "1.3",
+    "version": "2.5"
+  }
+]

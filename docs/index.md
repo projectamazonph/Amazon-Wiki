@@ -1,3 +1,9 @@
+---
+title: Amazon PPC Wiki
+page_type: landing
+version: 1.0.0
+---
+
 # The Amazon PPC Wiki
 
 A beginner-friendly, operator-ready knowledge base for Amazon PPC training, agency operations, and future app integration.
@@ -54,20 +60,3 @@ mkdocs serve
 ``​`
 
 Open the local URL MkDocs prints in your terminal.
-
-## Generated source
-
-Built from `Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx`.
-
-
-## Complete Data-Filled Guide merge
-
-This repo now includes the beginner-friendly complete guide content merged into the numbered wiki section pages. A consolidated copy lives at `docs/complete-data-filled-guide.md`, while the operational content is split across `docs/sections/*` for normal wiki navigation.
-
-Key additions:
-
-- Detailed beginner explanations by section
-- Practical workflows and operator checklists
-- Expanded glossary and formulas
-- Sample quizzes and simulator scenarios
-- Versioned content notes for app/LMS reuse

@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "term",
+    "short_def"
+  ],
+  "properties": {
+    "term": {
+      "type": "string"
+    },
+    "short_def": {
+      "type": "string"
+    },
+    "long_def": {
+      "type": "string"
+    },
+    "related_terms": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "first_appears_in_section": {
+      "type": "string"
+    }
+  }
+}

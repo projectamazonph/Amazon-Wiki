@@ -1,0 +1,38 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "scenario_id",
+    "campaign_type",
+    "starting_state",
+    "correct_actions",
+    "common_mistakes",
+    "scoring_rubric"
+  ],
+  "properties": {
+    "scenario_id": {
+      "type": "string"
+    },
+    "campaign_type": {
+      "type": "string"
+    },
+    "starting_state": {
+      "type": "string"
+    },
+    "correct_actions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "common_mistakes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "scoring_rubric": {
+      "type": "object"
+    }
+  }
+}

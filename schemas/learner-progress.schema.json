@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "learner_id",
+    "topic_id",
+    "status"
+  ],
+  "properties": {
+    "learner_id": {
+      "type": "string"
+    },
+    "topic_id": {
+      "type": "string"
+    },
+    "status": {
+      "enum": [
+        "not-started",
+        "in-progress",
+        "completed",
+        "needs-review"
+      ]
+    },
+    "quiz_scores": {
+      "type": "array"
+    },
+    "last_activity": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,732 @@
+[
+  {
+    "topic_id": "0-1",
+    "prerequisite_ids": []
+  },
+  {
+    "topic_id": "0-2",
+    "prerequisite_ids": []
+  },
+  {
+    "topic_id": "0-3",
+    "prerequisite_ids": []
+  },
+  {
+    "topic_id": "1-1",
+    "prerequisite_ids": []
+  },
+  {
+    "topic_id": "1-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "1-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "1-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "2-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "2-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "2-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "2-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "3-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "3-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "3-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "3-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "3-5",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "3-6",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "4-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "4-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "4-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "4-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "5-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "5-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "5-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "5-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "6-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "6-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "6-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "6-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "7-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "7-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "7-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "8-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "8-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "9-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "9-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "9-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "10-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "10-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "10-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "10-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "11-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "11-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "11-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "11-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "12-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "12-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "12-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "13-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "13-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "13-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "13-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "14-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "14-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "14-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "15-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "15-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "15-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "15-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "16-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "16-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "16-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "16-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "17-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "17-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "17-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "17-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "18-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "18-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "18-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "18-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "19-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "19-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "19-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "19-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "20-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "20-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "20-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "21-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "21-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "21-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "22-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "22-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "22-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "22-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "23-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "23-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "23-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "24-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "24-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "24-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "25-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "25-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "25-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "26-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "26-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "26-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "27-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "27-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "27-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "30",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-5",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-6",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "31-7",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-1",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-2",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-3",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-4",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-5",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-6",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-7",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "32-8",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-a",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-b",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-c",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-d",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-e",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-f",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  },
+  {
+    "topic_id": "playbook-g",
+    "prerequisite_ids": [
+      "1-1"
+    ]
+  }
+]

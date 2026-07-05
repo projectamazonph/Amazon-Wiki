@@ -1,0 +1,2470 @@
+[
+  {
+    "title": "0.1 Home / Landing Page",
+    "page_id": "0-1",
+    "section": "0. Front Matter",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/00-0-front-matter/0-1-0-1-home-landing-page.md"
+  },
+  {
+    "title": "0.2 How to Use This Wiki",
+    "page_id": "0-2",
+    "section": "0. Front Matter",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/00-0-front-matter/0-2-0-2-how-to-use-this-wiki.md"
+  },
+  {
+    "title": "0.3 Contributor / Maintenance Guide",
+    "page_id": "0-3",
+    "section": "0. Front Matter",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/00-0-front-matter/0-3-0-3-contributor-maintenance-guide.md"
+  },
+  {
+    "title": "1.1 What is Amazon PPC",
+    "page_id": "1-1",
+    "section": "1. Foundations & Fundamentals",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/01-1-foundations-and-fundamentals/1-1-1-1-what-is-amazon-ppc.md"
+  },
+  {
+    "title": "1.2 The Amazon Advertising Ecosystem",
+    "page_id": "1-2",
+    "section": "1. Foundations & Fundamentals",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/01-1-foundations-and-fundamentals/1-2-1-2-the-amazon-advertising-ecosystem.md"
+  },
+  {
+    "title": "1.3 Core Terminology Primer",
+    "page_id": "1-3",
+    "section": "1. Foundations & Fundamentals",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/01-1-foundations-and-fundamentals/1-3-1-3-core-terminology-primer.md"
+  },
+  {
+    "title": "1.4 Eligibility & Prerequisites",
+    "page_id": "1-4",
+    "section": "1. Foundations & Fundamentals",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/01-1-foundations-and-fundamentals/1-4-1-4-eligibility-and-prerequisites.md"
+  },
+  {
+    "title": "2.1 Account Structure Philosophy",
+    "page_id": "2-1",
+    "section": "2. Account & Campaign Architecture",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/02-2-account-and-campaign-architecture/2-1-2-1-account-structure-philosophy.md"
+  },
+  {
+    "title": "2.2 Campaign Structuring Models",
+    "page_id": "2-2",
+    "section": "2. Account & Campaign Architecture",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/02-2-account-and-campaign-architecture/2-2-2-2-campaign-structuring-models.md"
+  },
+  {
+    "title": "2.3 Ad Group Best Practices",
+    "page_id": "2-3",
+    "section": "2. Account & Campaign Architecture",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/02-2-account-and-campaign-architecture/2-3-2-3-ad-group-best-practices.md"
+  },
+  {
+    "title": "2.4 Portfolio & Budget Grouping",
+    "page_id": "2-4",
+    "section": "2. Account & Campaign Architecture",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "budget"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/02-2-account-and-campaign-architecture/2-4-2-4-portfolio-and-budget-grouping.md"
+  },
+  {
+    "title": "3.1 Sponsored Products (SP)",
+    "page_id": "3-1",
+    "section": "3. Campaign Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "sponsored-products"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/03-3-campaign-types/3-1-3-1-sponsored-products-sp.md"
+  },
+  {
+    "title": "3.2 Sponsored Brands (SB)",
+    "page_id": "3-2",
+    "section": "3. Campaign Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "brand",
+      "sponsored-brands"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/03-3-campaign-types/3-2-3-2-sponsored-brands-sb.md"
+  },
+  {
+    "title": "3.3 Sponsored Display (SD)",
+    "page_id": "3-3",
+    "section": "3. Campaign Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "sponsored-display"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/03-3-campaign-types/3-3-3-3-sponsored-display-sd.md"
+  },
+  {
+    "title": "3.4 Sponsored TV / Streaming TV Ads",
+    "page_id": "3-4",
+    "section": "3. Campaign Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/03-3-campaign-types/3-4-3-4-sponsored-tv-streaming-tv-ads.md"
+  },
+  {
+    "title": "3.5 Amazon DSP",
+    "page_id": "3-5",
+    "section": "3. Campaign Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "dsp"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/03-3-campaign-types/3-5-3-5-amazon-dsp.md"
+  },
+  {
+    "title": "3.6 Cross-Campaign-Type Strategy",
+    "page_id": "3-6",
+    "section": "3. Campaign Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/03-3-campaign-types/3-6-3-6-cross-campaign-type-strategy.md"
+  },
+  {
+    "title": "4.1 Keyword Match Types",
+    "page_id": "4-1",
+    "section": "4. Targeting & Match Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords",
+      "targeting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/04-4-targeting-and-match-types/4-1-4-1-keyword-match-types.md"
+  },
+  {
+    "title": "4.2 Product Targeting",
+    "page_id": "4-2",
+    "section": "4. Targeting & Match Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "targeting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/04-4-targeting-and-match-types/4-2-4-2-product-targeting.md"
+  },
+  {
+    "title": "4.3 Audience Targeting",
+    "page_id": "4-3",
+    "section": "4. Targeting & Match Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "targeting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/04-4-targeting-and-match-types/4-3-4-3-audience-targeting.md"
+  },
+  {
+    "title": "4.4 Auto-Targeting Categories",
+    "page_id": "4-4",
+    "section": "4. Targeting & Match Types",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "targeting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/04-4-targeting-and-match-types/4-4-4-4-auto-targeting-categories.md"
+  },
+  {
+    "title": "5.1 Research Methodology",
+    "page_id": "5-1",
+    "section": "5. Keyword Research & Search Term Mining",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/05-5-keyword-research-and-search-term-mining/5-1-5-1-research-methodology.md"
+  },
+  {
+    "title": "5.2 Keyword Research Tools",
+    "page_id": "5-2",
+    "section": "5. Keyword Research & Search Term Mining",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords",
+      "tools"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/05-5-keyword-research-and-search-term-mining/5-2-5-2-keyword-research-tools.md"
+  },
+  {
+    "title": "5.3 Search Term Harvesting Workflow",
+    "page_id": "5-3",
+    "section": "5. Keyword Research & Search Term Mining",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/05-5-keyword-research-and-search-term-mining/5-3-5-3-search-term-harvesting-workflow.md"
+  },
+  {
+    "title": "5.4 Long-Tail vs. Head Term Strategy",
+    "page_id": "5-4",
+    "section": "5. Keyword Research & Search Term Mining",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/05-5-keyword-research-and-search-term-mining/5-4-5-4-long-tail-vs-head-term-strategy.md"
+  },
+  {
+    "title": "6.1 Manual Bidding Fundamentals",
+    "page_id": "6-1",
+    "section": "6. Bidding Strategies & Bid Management",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "bidding"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/06-6-bidding-strategies-and-bid-management/6-1-6-1-manual-bidding-fundamentals.md"
+  },
+  {
+    "title": "6.2 Dynamic & Rule-Based Bidding",
+    "page_id": "6-2",
+    "section": "6. Bidding Strategies & Bid Management",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "bidding"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/06-6-bidding-strategies-and-bid-management/6-2-6-2-dynamic-and-rule-based-bidding.md"
+  },
+  {
+    "title": "6.3 Bid Adjustment Cadence",
+    "page_id": "6-3",
+    "section": "6. Bidding Strategies & Bid Management",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "bidding"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/06-6-bidding-strategies-and-bid-management/6-3-6-3-bid-adjustment-cadence.md"
+  },
+  {
+    "title": "6.4 Placement Bid Modifiers",
+    "page_id": "6-4",
+    "section": "6. Bidding Strategies & Bid Management",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "bidding"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/06-6-bidding-strategies-and-bid-management/6-4-6-4-placement-bid-modifiers.md"
+  },
+  {
+    "title": "7.1 Budget Allocation Frameworks",
+    "page_id": "7-1",
+    "section": "7. Budget Management & Pacing",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "budget"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/07-7-budget-management-and-pacing/7-1-7-1-budget-allocation-frameworks.md"
+  },
+  {
+    "title": "7.2 Pacing and Ran Out of Budget Diagnostics",
+    "page_id": "7-2",
+    "section": "7. Budget Management & Pacing",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "budget"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/07-7-budget-management-and-pacing/7-2-7-2-pacing-and-ran-out-of-budget-diagnostics.md"
+  },
+  {
+    "title": "7.3 Seasonal Budget Planning",
+    "page_id": "7-3",
+    "section": "7. Budget Management & Pacing",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "budget"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/07-7-budget-management-and-pacing/7-3-7-3-seasonal-budget-planning.md"
+  },
+  {
+    "title": "8.1 Placement Types Explained",
+    "page_id": "8-1",
+    "section": "8. Placements & Placement Optimization",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/08-8-placements-and-placement-optimization/8-1-8-1-placement-types-explained.md"
+  },
+  {
+    "title": "8.2 Placement Reporting & Diagnosis",
+    "page_id": "8-2",
+    "section": "8. Placements & Placement Optimization",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/08-8-placements-and-placement-optimization/8-2-8-2-placement-reporting-and-diagnosis.md"
+  },
+  {
+    "title": "9.1 Negative Match Types",
+    "page_id": "9-1",
+    "section": "9. Negative Keywords & Negation Strategy",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/09-9-negative-keywords-and-negation-strategy/9-1-9-1-negative-match-types.md"
+  },
+  {
+    "title": "9.2 Negation Strategy by Campaign Structure",
+    "page_id": "9-2",
+    "section": "9. Negative Keywords & Negation Strategy",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/09-9-negative-keywords-and-negation-strategy/9-2-9-2-negation-strategy-by-campaign-structure.md"
+  },
+  {
+    "title": "9.3 Common Negation Mistakes",
+    "page_id": "9-3",
+    "section": "9. Negative Keywords & Negation Strategy",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "keywords"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/09-9-negative-keywords-and-negation-strategy/9-3-9-3-common-negation-mistakes.md"
+  },
+  {
+    "title": "10.1 Core Metrics Deep Dive",
+    "page_id": "10-1",
+    "section": "10. Metrics, KPIs & Analytics",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "metrics"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/10-10-metrics-kpis-and-analytics/10-1-10-1-core-metrics-deep-dive.md"
+  },
+  {
+    "title": "10.2 Advanced Metrics",
+    "page_id": "10-2",
+    "section": "10. Metrics, KPIs & Analytics",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "metrics"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/10-10-metrics-kpis-and-analytics/10-2-10-2-advanced-metrics.md"
+  },
+  {
+    "title": "10.3 Health Check Frameworks",
+    "page_id": "10-3",
+    "section": "10. Metrics, KPIs & Analytics",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "metrics"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/10-10-metrics-kpis-and-analytics/10-3-10-3-health-check-frameworks.md"
+  },
+  {
+    "title": "10.4 Benchmarking",
+    "page_id": "10-4",
+    "section": "10. Metrics, KPIs & Analytics",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "metrics"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/10-10-metrics-kpis-and-analytics/10-4-10-4-benchmarking.md"
+  },
+  {
+    "title": "11.1 Native Amazon Reports",
+    "page_id": "11-1",
+    "section": "11. Reporting & Data Analysis",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/11-11-reporting-and-data-analysis/11-1-11-1-native-amazon-reports.md"
+  },
+  {
+    "title": "11.2 Brand Analytics",
+    "page_id": "11-2",
+    "section": "11. Reporting & Data Analysis",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "brand",
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/11-11-reporting-and-data-analysis/11-2-11-2-brand-analytics.md"
+  },
+  {
+    "title": "11.3 Custom Reporting & Dashboards",
+    "page_id": "11-3",
+    "section": "11. Reporting & Data Analysis",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/11-11-reporting-and-data-analysis/11-3-11-3-custom-reporting-and-dashboards.md"
+  },
+  {
+    "title": "11.4 Data Storytelling",
+    "page_id": "11-4",
+    "section": "11. Reporting & Data Analysis",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/11-11-reporting-and-data-analysis/11-4-11-4-data-storytelling.md"
+  },
+  {
+    "title": "12.1 What AMC Is and Who Needs It",
+    "page_id": "12-1",
+    "section": "12. Amazon Marketing Cloud",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/12-12-amazon-marketing-cloud/12-1-12-1-what-amc-is-and-who-needs-it.md"
+  },
+  {
+    "title": "12.2 AMC Use Cases",
+    "page_id": "12-2",
+    "section": "12. Amazon Marketing Cloud",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/12-12-amazon-marketing-cloud/12-2-12-2-amc-use-cases.md"
+  },
+  {
+    "title": "12.3 AMC SQL Basics",
+    "page_id": "12-3",
+    "section": "12. Amazon Marketing Cloud",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/12-12-amazon-marketing-cloud/12-3-12-3-amc-sql-basics.md"
+  },
+  {
+    "title": "13.1 DSP Fundamentals",
+    "page_id": "13-1",
+    "section": "13. Amazon DSP",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "dsp"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/13-13-amazon-dsp/13-1-13-1-dsp-fundamentals.md"
+  },
+  {
+    "title": "13.2 DSP Campaign Types",
+    "page_id": "13-2",
+    "section": "13. Amazon DSP",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "dsp"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/13-13-amazon-dsp/13-2-13-2-dsp-campaign-types.md"
+  },
+  {
+    "title": "13.3 DSP Audience Building",
+    "page_id": "13-3",
+    "section": "13. Amazon DSP",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "dsp"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/13-13-amazon-dsp/13-3-13-3-dsp-audience-building.md"
+  },
+  {
+    "title": "13.4 DSP + Sponsored Ads Synergy",
+    "page_id": "13-4",
+    "section": "13. Amazon DSP",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "dsp"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/13-13-amazon-dsp/13-4-13-4-dsp-plus-sponsored-ads-synergy.md"
+  },
+  {
+    "title": "14.1 Brand Registry",
+    "page_id": "14-1",
+    "section": "14. Brand Presence & Content Tie-Ins",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "brand"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/14-14-brand-presence-and-content-tie-ins/14-1-14-1-brand-registry.md"
+  },
+  {
+    "title": "14.2 Brand Store",
+    "page_id": "14-2",
+    "section": "14. Brand Presence & Content Tie-Ins",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "brand"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/14-14-brand-presence-and-content-tie-ins/14-2-14-2-brand-store.md"
+  },
+  {
+    "title": "14.3 A+ Content / Premium A+",
+    "page_id": "14-3",
+    "section": "14. Brand Presence & Content Tie-Ins",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "brand"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/14-14-brand-presence-and-content-tie-ins/14-3-14-3-aplus-content-premium-aplus.md"
+  },
+  {
+    "title": "15.1 Why Listing Quality Gates PPC Performance",
+    "page_id": "15-1",
+    "section": "15. Listing Optimization",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "listing"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/15-15-listing-optimization/15-1-15-1-why-listing-quality-gates-ppc-performance.md"
+  },
+  {
+    "title": "15.2 Title, Bullet, Backend Keyword Optimization",
+    "page_id": "15-2",
+    "section": "15. Listing Optimization",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "keywords",
+      "listing"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/15-15-listing-optimization/15-2-15-2-title-bullet-backend-keyword-optimization.md"
+  },
+  {
+    "title": "15.3 Image & Video Impact on CTR/CVR",
+    "page_id": "15-3",
+    "section": "15. Listing Optimization",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "listing"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/15-15-listing-optimization/15-3-15-3-image-and-video-impact-on-ctr-cvr.md"
+  },
+  {
+    "title": "15.4 Pricing & Promotions Interplay with PPC",
+    "page_id": "15-4",
+    "section": "15. Listing Optimization",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "listing"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/15-15-listing-optimization/15-4-15-4-pricing-and-promotions-interplay-with-ppc.md"
+  },
+  {
+    "title": "16.1 Native Amazon Automation",
+    "page_id": "16-1",
+    "section": "16. Automation, Rules & Scripts",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "automation"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/16-16-automation-rules-and-scripts/16-1-16-1-native-amazon-automation.md"
+  },
+  {
+    "title": "16.2 Bulk Operations",
+    "page_id": "16-2",
+    "section": "16. Automation, Rules & Scripts",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "automation"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/16-16-automation-rules-and-scripts/16-2-16-2-bulk-operations.md"
+  },
+  {
+    "title": "16.3 Custom Scripts & API-Based Automation",
+    "page_id": "16-3",
+    "section": "16. Automation, Rules & Scripts",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "automation"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/16-16-automation-rules-and-scripts/16-3-16-3-custom-scripts-and-api-based-automation.md"
+  },
+  {
+    "title": "16.4 AI-Augmented PPC Management",
+    "page_id": "16-4",
+    "section": "16. Automation, Rules & Scripts",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "automation"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/16-16-automation-rules-and-scripts/16-4-16-4-ai-augmented-ppc-management.md"
+  },
+  {
+    "title": "17.1 All-in-One Suites",
+    "page_id": "17-1",
+    "section": "17. Software & Tools Ecosystem",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "tools"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/17-17-software-and-tools-ecosystem/17-1-17-1-all-in-one-suites.md"
+  },
+  {
+    "title": "17.2 Point Solutions",
+    "page_id": "17-2",
+    "section": "17. Software & Tools Ecosystem",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "tools"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/17-17-software-and-tools-ecosystem/17-2-17-2-point-solutions.md"
+  },
+  {
+    "title": "17.3 Build vs. Buy",
+    "page_id": "17-3",
+    "section": "17. Software & Tools Ecosystem",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "tools"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/17-17-software-and-tools-ecosystem/17-3-17-3-build-vs-buy.md"
+  },
+  {
+    "title": "17.4 Tool Evaluation Framework",
+    "page_id": "17-4",
+    "section": "17. Software & Tools Ecosystem",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "tools"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/17-17-software-and-tools-ecosystem/17-4-17-4-tool-evaluation-framework.md"
+  },
+  {
+    "title": "18.1 New Product Launch",
+    "page_id": "18-1",
+    "section": "18. Strategy by Business Lifecycle Stage",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "launch"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/18-18-strategy-by-business-lifecycle-stage/18-1-18-1-new-product-launch.md"
+  },
+  {
+    "title": "18.2 Growth Stage",
+    "page_id": "18-2",
+    "section": "18. Strategy by Business Lifecycle Stage",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/18-18-strategy-by-business-lifecycle-stage/18-2-18-2-growth-stage.md"
+  },
+  {
+    "title": "18.3 Mature/Steady-State",
+    "page_id": "18-3",
+    "section": "18. Strategy by Business Lifecycle Stage",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/18-18-strategy-by-business-lifecycle-stage/18-3-18-3-mature-steady-state.md"
+  },
+  {
+    "title": "18.4 Decline/Sunset",
+    "page_id": "18-4",
+    "section": "18. Strategy by Business Lifecycle Stage",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/18-18-strategy-by-business-lifecycle-stage/18-4-18-4-decline-sunset.md"
+  },
+  {
+    "title": "19.1 High-Consideration / High-Price Categories",
+    "page_id": "19-1",
+    "section": "19. Strategy by Product Category",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/19-19-strategy-by-product-category/19-1-19-1-high-consideration-high-price-categories.md"
+  },
+  {
+    "title": "19.2 Low-Price / Impulse Categories",
+    "page_id": "19-2",
+    "section": "19. Strategy by Product Category",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/19-19-strategy-by-product-category/19-2-19-2-low-price-impulse-categories.md"
+  },
+  {
+    "title": "19.3 Seasonal/Gift Categories",
+    "page_id": "19-3",
+    "section": "19. Strategy by Product Category",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/19-19-strategy-by-product-category/19-3-19-3-seasonal-gift-categories.md"
+  },
+  {
+    "title": "19.4 Regulated Categories",
+    "page_id": "19-4",
+    "section": "19. Strategy by Product Category",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/19-19-strategy-by-product-category/19-4-19-4-regulated-categories.md"
+  },
+  {
+    "title": "20.1 Prime Day Playbook",
+    "page_id": "20-1",
+    "section": "20. Seasonal & Event Planning",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/20-20-seasonal-and-event-planning/20-1-20-1-prime-day-playbook.md"
+  },
+  {
+    "title": "20.2 Q4 / Holiday Playbook",
+    "page_id": "20-2",
+    "section": "20. Seasonal & Event Planning",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/20-20-seasonal-and-event-planning/20-2-20-2-q4-holiday-playbook.md"
+  },
+  {
+    "title": "20.3 Other Key Dates",
+    "page_id": "20-3",
+    "section": "20. Seasonal & Event Planning",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/20-20-seasonal-and-event-planning/20-3-20-3-other-key-dates.md"
+  },
+  {
+    "title": "21.1 Marketplace Differences",
+    "page_id": "21-1",
+    "section": "21. International & Multi-Marketplace PPC",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/21-21-international-and-multi-marketplace-ppc/21-1-21-1-marketplace-differences.md"
+  },
+  {
+    "title": "21.2 Cross-Marketplace Account Structure",
+    "page_id": "21-2",
+    "section": "21. International & Multi-Marketplace PPC",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/21-21-international-and-multi-marketplace-ppc/21-2-21-2-cross-marketplace-account-structure.md"
+  },
+  {
+    "title": "21.3 Localization Considerations",
+    "page_id": "21-3",
+    "section": "21. International & Multi-Marketplace PPC",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/21-21-international-and-multi-marketplace-ppc/21-3-21-3-localization-considerations.md"
+  },
+  {
+    "title": "22.1 Team Roles & RACI",
+    "page_id": "22-1",
+    "section": "22. Agency & Team Operations",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "operations"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/22-22-agency-and-team-operations/22-1-22-1-team-roles-and-raci.md"
+  },
+  {
+    "title": "22.2 SOPs & Workflow Documentation",
+    "page_id": "22-2",
+    "section": "22. Agency & Team Operations",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "operations"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/22-22-agency-and-team-operations/22-2-22-2-sops-and-workflow-documentation.md"
+  },
+  {
+    "title": "22.3 VA Training & Enablement",
+    "page_id": "22-3",
+    "section": "22. Agency & Team Operations",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "operations"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/22-22-agency-and-team-operations/22-3-22-3-va-training-and-enablement.md"
+  },
+  {
+    "title": "22.4 QA & Review Process",
+    "page_id": "22-4",
+    "section": "22. Agency & Team Operations",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "operations"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/22-22-agency-and-team-operations/22-4-22-4-qa-and-review-process.md"
+  },
+  {
+    "title": "23.1 Reporting Cadence",
+    "page_id": "23-1",
+    "section": "23. Client & Stakeholder Communication",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "communication",
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/23-23-client-and-stakeholder-communication/23-1-23-1-reporting-cadence.md"
+  },
+  {
+    "title": "23.2 Setting Expectations",
+    "page_id": "23-2",
+    "section": "23. Client & Stakeholder Communication",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "communication"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/23-23-client-and-stakeholder-communication/23-2-23-2-setting-expectations.md"
+  },
+  {
+    "title": "23.3 Handling Difficult Conversations",
+    "page_id": "23-3",
+    "section": "23. Client & Stakeholder Communication",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "communication"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/23-23-client-and-stakeholder-communication/23-3-23-3-handling-difficult-conversations.md"
+  },
+  {
+    "title": "24.1 Advertising Policy Basics",
+    "page_id": "24-1",
+    "section": "24. Compliance, Policy & Account Health",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "policy"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/24-24-compliance-policy-and-account-health/24-1-24-1-advertising-policy-basics.md"
+  },
+  {
+    "title": "24.2 Account Health Interplay",
+    "page_id": "24-2",
+    "section": "24. Compliance, Policy & Account Health",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "policy"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/24-24-compliance-policy-and-account-health/24-2-24-2-account-health-interplay.md"
+  },
+  {
+    "title": "24.3 Competitor & Ethical Boundaries",
+    "page_id": "24-3",
+    "section": "24. Compliance, Policy & Account Health",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "policy"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/24-24-compliance-policy-and-account-health/24-3-24-3-competitor-and-ethical-boundaries.md"
+  },
+  {
+    "title": "25.1 Retail Media Network Trends",
+    "page_id": "25-1",
+    "section": "25. Advanced & Emerging Topics",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/25-25-advanced-and-emerging-topics/25-1-25-1-retail-media-network-trends.md"
+  },
+  {
+    "title": "25.2 AI's Growing Role in Amazon Ads",
+    "page_id": "25-2",
+    "section": "25. Advanced & Emerging Topics",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/25-25-advanced-and-emerging-topics/25-2-25-2-ai-s-growing-role-in-amazon-ads.md"
+  },
+  {
+    "title": "25.3 Privacy & Signal Loss",
+    "page_id": "25-3",
+    "section": "25. Advanced & Emerging Topics",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/25-25-advanced-and-emerging-topics/25-3-25-3-privacy-and-signal-loss.md"
+  },
+  {
+    "title": "26.1 Certifications",
+    "page_id": "26-1",
+    "section": "26. Career, Certification & Learning",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/26-26-career-certification-and-learning/26-1-26-1-certifications.md"
+  },
+  {
+    "title": "26.2 Career Pathing",
+    "page_id": "26-2",
+    "section": "26. Career, Certification & Learning",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/26-26-career-certification-and-learning/26-2-26-2-career-pathing.md"
+  },
+  {
+    "title": "26.3 Continuing Education",
+    "page_id": "26-3",
+    "section": "26. Career, Certification & Learning",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/26-26-career-certification-and-learning/26-3-26-3-continuing-education.md"
+  },
+  {
+    "title": "27.1 Case Study Template",
+    "page_id": "27-1",
+    "section": "27. Case Studies & Templates",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/27-27-case-studies-and-templates/27-1-27-1-case-study-template.md"
+  },
+  {
+    "title": "27.2 Downloadable Templates",
+    "page_id": "27-2",
+    "section": "27. Case Studies & Templates",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/27-27-case-studies-and-templates/27-2-27-2-downloadable-templates.md"
+  },
+  {
+    "title": "27.3 Real Case Studies",
+    "page_id": "27-3",
+    "section": "27. Case Studies & Templates",
+    "learner_level": "Advanced",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/27-27-case-studies-and-templates/27-3-27-3-real-case-studies.md"
+  },
+  {
+    "title": "30. Meta / Changelog",
+    "page_id": "30",
+    "section": "30. Meta / Changelog",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/30-30-meta-changelog/30-30-meta-changelog.md"
+  },
+  {
+    "title": "31.1 Learning Aid",
+    "page_id": "31-1",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-1-31-1-learning-aid.md"
+  },
+  {
+    "title": "31.2 Quiz",
+    "page_id": "31-2",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-2-31-2-quiz.md"
+  },
+  {
+    "title": "31.3 Teaching Guide",
+    "page_id": "31-3",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-3-31-3-teaching-guide.md"
+  },
+  {
+    "title": "31.4 Handout",
+    "page_id": "31-4",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-4-31-4-handout.md"
+  },
+  {
+    "title": "31.5 Tagging & Assembly System",
+    "page_id": "31-5",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-5-31-5-tagging-and-assembly-system.md"
+  },
+  {
+    "title": "31.6 Rollout Priority",
+    "page_id": "31-6",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-6-31-6-rollout-priority.md"
+  },
+  {
+    "title": "31.7 Assessment & Certification Tie-In",
+    "page_id": "31-7",
+    "section": "31. Training Layer Template",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/31-31-training-layer-template/31-7-31-7-assessment-and-certification-tie-in.md"
+  },
+  {
+    "title": "32.1 Content-as-Data Separation",
+    "page_id": "32-1",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-1-32-1-content-as-data-separation.md"
+  },
+  {
+    "title": "32.2 Standardized Schemas",
+    "page_id": "32-2",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-2-32-2-standardized-schemas.md"
+  },
+  {
+    "title": "32.3 Simulator Scenario Bank",
+    "page_id": "32-3",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-3-32-3-simulator-scenario-bank.md"
+  },
+  {
+    "title": "32.4 Asset Library with Naming Convention",
+    "page_id": "32-4",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-4-32-4-asset-library-with-naming-convention.md"
+  },
+  {
+    "title": "32.5 Content Versioning & Sync Contract",
+    "page_id": "32-5",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-5-32-5-content-versioning-and-sync-contract.md"
+  },
+  {
+    "title": "32.6 API/Export Layer",
+    "page_id": "32-6",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-6-32-6-api-export-layer.md"
+  },
+  {
+    "title": "32.7 Difficulty & Progression Graph",
+    "page_id": "32-7",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-7-32-7-difficulty-and-progression-graph.md"
+  },
+  {
+    "title": "32.8 Multi-Consumer Design",
+    "page_id": "32-8",
+    "section": "32. App-Building Layer",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/32-32-app-building-layer/32-8-32-8-multi-consumer-design.md"
+  },
+  {
+    "title": "A. PPC Diagnostic Framework",
+    "page_id": "playbook-a",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-a-a-ppc-diagnostic-framework.md"
+  },
+  {
+    "title": "B. Search Term Mining SOP",
+    "page_id": "playbook-b",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-b-b-search-term-mining-sop.md"
+  },
+  {
+    "title": "C. Bid and Budget Decision Matrix",
+    "page_id": "playbook-c",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "bidding",
+      "budget"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-c-c-bid-and-budget-decision-matrix.md"
+  },
+  {
+    "title": "D. New Product Launch Blueprint",
+    "page_id": "playbook-d",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "launch"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-d-d-new-product-launch-blueprint.md"
+  },
+  {
+    "title": "E. Client Reporting Narrative Builder",
+    "page_id": "playbook-e",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "communication",
+      "reporting"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-e-e-client-reporting-narrative-builder.md"
+  },
+  {
+    "title": "F. Bulk Upload and Change QA Checklist",
+    "page_id": "playbook-f",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-f-f-bulk-upload-and-change-qa-checklist.md"
+  },
+  {
+    "title": "G. Wiki-to-App Data Schemas",
+    "page_id": "playbook-g",
+    "section": "Deep Operational Playbooks",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "amazon-ppc"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "PPC Training Team",
+    "review_cycle": "Quarterly",
+    "last_verified_against_live_console": null,
+    "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
+    "status": "draft-ready",
+    "path": "sections/zz-deep-operational-playbooks/playbook-g-g-wiki-to-app-data-schemas.md"
+  }
+]
