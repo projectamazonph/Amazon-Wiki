@@ -2466,5 +2466,193 @@
     "source_doc": "Amazon_PPC_Wiki_Fresh_Graduate_Guide_EXPANDED.docx",
     "status": "draft-ready",
     "path": "sections/zz-deep-operational-playbooks/playbook-g-g-wiki-to-app-data-schemas.md"
+  },
+  {
+    "title": "PPC Strategy Hub",
+    "page_id": "hub-strategy",
+    "section": "Hub Pages",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "strategy",
+      "campaign-types",
+      "bidding",
+      "seasonal",
+      "advanced"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 30,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "strategies/index.md"
+  },
+  {
+    "title": "Pro Tips & Tactics Hub",
+    "page_id": "hub-tips",
+    "section": "Hub Pages",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "tips",
+      "tactics",
+      "launch",
+      "scale",
+      "optimize",
+      "mistakes"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 25,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "tips/index.md"
+  },
+  {
+    "title": "Tools & Automation Hub",
+    "page_id": "hub-tools",
+    "section": "Hub Pages",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "tools",
+      "automation",
+      "software",
+      "spreadsheets",
+      "browser-extensions"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 20,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "tools/index.md"
+  },
+  {
+    "title": "Automation & Rules Hub",
+    "page_id": "hub-automation",
+    "section": "Hub Pages",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "automation",
+      "rules",
+      "scripts",
+      "api",
+      "failure-modes"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 25,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "automation/index.md"
+  },
+  {
+    "title": "VA Resources Hub",
+    "page_id": "hub-va",
+    "section": "Hub Pages",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "va",
+      "virtual-assistant",
+      "sop",
+      "onboarding",
+      "checklist",
+      "templates"
+    ],
+    "delivery_format": [
+      "self-paced",
+      "instructor-led"
+    ],
+    "estimated_time_minutes": 30,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "va-resources/index.md"
+  },
+  {
+    "title": "Online Resources & Links Hub",
+    "page_id": "hub-resources",
+    "section": "Hub Pages",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "resources",
+      "blogs",
+      "youtube",
+      "podcasts",
+      "forums",
+      "courses",
+      "communities"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 15,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "online-resources/index.md"
+  },
+  {
+    "title": "Interview Questions Hub",
+    "page_id": "hub-interview",
+    "section": "Hub Pages",
+    "learner_level": "Applied",
+    "topic_tags": [
+      "interview",
+      "questions",
+      "hiring",
+      "preparation"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 30,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "interview-hub/index.md"
+  },
+  {
+    "title": "Discover & Explore \u2014 Start Here",
+    "page_id": "hub-discover",
+    "section": "Hub Pages",
+    "learner_level": "Foundational",
+    "topic_tags": [
+      "beginner",
+      "start-here",
+      "learning-path",
+      "self-assessment",
+      "quick-wins"
+    ],
+    "delivery_format": [
+      "self-paced"
+    ],
+    "estimated_time_minutes": 20,
+    "owner": "Wiki Maintenance Agent",
+    "review_cycle": "Monthly",
+    "last_verified_against_live_console": "2026-07-08",
+    "source_doc": "Wiki Maintenance Agent",
+    "status": "active",
+    "path": "discover/index.md"
   }
 ]
