@@ -1,3 +1,11 @@
+> ⚠️ **LEGACY / SUPERSEDED** — This repository is no longer the canonical version.
+>
+> 👉 **Use the actively maintained project instead:**
+> - **AMPH Academy v2** → https://github.com/projectamazonph/amph-v2 (flagship training platform)
+> - **Amazon PPC Student Wiki** → https://github.com/projectamazonph/Amazon-PPC-Student-Wiki (knowledge base)
+>
+> This repo is kept online for reference only and will be archived once v2 ships. No new features or fixes here.
+
 # The Amazon PPC Wiki
 
 A beginner-friendly, operator-ready knowledge base for Amazon PPC training, agency operations, and future app integration.
